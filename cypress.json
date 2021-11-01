@@ -1,4 +1,5 @@
 {
-    "baseUrl":"https://translate.google.com"
+    "baseUrl":"https://translate.google.com",
+    "retries": 1
 }
 
